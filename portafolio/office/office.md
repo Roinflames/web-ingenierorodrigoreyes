@@ -54,7 +54,6 @@ matriz_resultado → la columna o fila desde donde quieres devolver el resultado
 -2 → Búsqueda binaria descendente.
 
 ### 1. COINCIDIR
-
 Busca la posición (número de fila o columna) donde se encuentra un valor dentro de un rango.
 ```bash
 =COINCIDIR(valor_buscado; rango; [tipo])
