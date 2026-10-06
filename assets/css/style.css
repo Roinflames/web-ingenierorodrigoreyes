@@ -1102,3 +1102,16 @@ section {
     padding-right: 20px 15px;
   }
 }
+/* Institution badges (replace template stock portraits) */
+.testimonials .testimonial-item .inst-badge {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  margin: 0 auto;
+  background: linear-gradient(135deg, #0B1F3A 0%, #0A6FD8 100%);
+  color: #fff;
+  font-size: 40px;
+}
